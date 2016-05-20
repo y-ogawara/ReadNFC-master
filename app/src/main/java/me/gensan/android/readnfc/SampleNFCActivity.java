@@ -1,6 +1,5 @@
 package me.gensan.android.readnfc;
 
-import me.gensan.android.samplenfc.R;
 import android.app.Activity;
 import android.app.PendingIntent;
 import android.content.Intent;
@@ -20,6 +19,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.widget.TextView;
+
+import me.gensan.android.samplenfc.R;
 
 public class SampleNFCActivity extends Activity {
 	
@@ -45,6 +46,7 @@ public class SampleNFCActivity extends Activity {
             	TextView idmView = (TextView) findViewById(R.id.idm);
             	idmView.setText(idm);
             }
+			//aa
         }
 		mNfcAdapter = NfcAdapter.getDefaultAdapter(getApplicationContext());
 		mPendingIntent = PendingIntent.getActivity(getApplicationContext(), 0,
