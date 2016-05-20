@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yuusuke/Desktop/ReadNFC-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98e47bbe8fa664ca72d0588e4adce2086f8ab94f">
+        <dex dex="/Users/yuusuke/Desktop/ReadNFC-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1abb6b5df33041c65ca58d58929876e2ab737eb2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuusuke/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/yuusuke/Desktop/ReadNFC-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_41ce53fb0df378bea9ef91183885d8d31a735fd1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuusuke/Desktop/ReadNFC-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db68ececa10c2ea8c3f658aa151a6272a777e15a">
+        <dex dex="/Users/yuusuke/Desktop/ReadNFC-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7f1ca98fb8de7c05f879e4ee219cf4514cefffb8/classes.dex" />
+    </item>
+
+</items>
